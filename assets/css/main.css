@@ -747,7 +747,9 @@ section,
   opacity: 1;
   bottom: 20px;
 }
-
+/*--------------------------------------------------------------
+# About section preformatted text
+--------------------------------------------------------------*/
 .code
 {
   white-space: pre-wrap;
