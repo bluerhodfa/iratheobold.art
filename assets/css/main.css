@@ -747,3 +747,8 @@ section,
   opacity: 1;
   bottom: 20px;
 }
+
+div.code
+{
+  white-space: pre;
+}
