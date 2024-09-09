@@ -248,10 +248,4 @@
   window.addEventListener('load', navmenuScrollspy);
   document.addEventListener('scroll', navmenuScrollspy);
 
-/* include separate html files */
-  function includeHTML() {
-         $("#includeHtml").load("portfolio-item.html");
-      };
-      window.addEventListener("load", includeHTML);
-
 })();
