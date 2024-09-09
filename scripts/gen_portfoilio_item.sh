@@ -26,7 +26,7 @@ do
 
   FILTER=`echo $i | awk -F "-" '{print $1}'`
   # class
-  echo "\nl" \
+  echo "\n" \
        "<div class=\"col-lg-4 col-md-6 portfolio-item isotope-item filter-$FILTER\"> \n" \
        "<img src="\"$HTMLPATH$i.webp\"" > \n" \
        "  <div class="portfolio-info"> \n" \
