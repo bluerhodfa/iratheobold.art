@@ -86,7 +86,14 @@
 
               <!-- Include generated portfolio-items -->
 
-              <div id="includeHtml"></div>
+              <div id="includeHtml">
+                
+              </div>
+    <script>
+      $(function() {
+         $("#includeHtml").load("portfolio-item.html");
+      });
+   </script>
 
           </div><!-- End Portfolio Container -->
         </div>
@@ -172,10 +179,5 @@
     
     <!-- Main JS File -->
     <script src="assets/js/main.js"></script>
-    <script>
-      $(function() {
-         $("#includeHtml").load("portfolio-item.html");
-      });
-   </script>
 </body>  
 </html> 
