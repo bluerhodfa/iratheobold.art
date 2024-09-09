@@ -251,6 +251,7 @@
 /* include separate html files */
   function includeHTML() {
          $("#includeHtml").load("portfolio-item.html");
-      }
+      };
+      window.addEventListener("load", includeHtml);
 
 })();
