@@ -31,6 +31,16 @@
 
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.js"
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous">
+</script>
+<script> 
+$(function(){
+  $("#portfolio").load("portfolio-item.html"); 
+});
+</script>
 
 </head>
 
@@ -86,7 +96,7 @@
 
               <!-- Include generated portfolio-items -->
 
-              <!--#include virtual="portfolio-item.html" --> 
+              <div id="portfolio"></div>
 
           </div><!-- End Portfolio Container -->
         </div>
