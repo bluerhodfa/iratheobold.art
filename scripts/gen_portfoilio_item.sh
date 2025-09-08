@@ -34,7 +34,6 @@ do
        "          <div class=\"col-lg-4 col-md-6 portfolio-item isotope-item filter-$FILTER\"> \n" \
        "            <img src="\"$HTMLPATH$i\"" class="img-fluid" alt=\"\" > \n" \
        "            <div class="portfolio-info"> \n" \
-       "              <p>$DESCRIPTION<p> \n" \
        "              <h4>$NAME</h4> \n" \
        "              <p>$DESCRIPTION</p> \n" \
        "              <a href=\"$HTMLPATH`echo $i | awk -F "." '{print $1}'`.png\" title=\"$NAME\" data-gallery=\"portfolio-gallery-$FILTER\" class=\"glightbox preview-link\"><i class=\"bi bi-zoom-in\"></i></a> \n" \
