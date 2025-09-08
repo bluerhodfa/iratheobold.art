@@ -92,7 +92,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/watercolour-3.webp.png" title="Test name" data-gallery="portfolio-gallery-watercolour" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/watercolour-3.png" title="Test name" data-gallery="portfolio-gallery-watercolour" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -103,7 +103,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/ink-1.webp.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/ink-1.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -114,7 +114,18 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/digital-4.webp.png" title="Test name" data-gallery="portfolio-gallery-digital" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/digital-4.png" title="Test name" data-gallery="portfolio-gallery-digital" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+             </div> 
+           </div><!-- End Portfolio Item --> 
+
+
+           <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ink"> 
+             <img src="../assets/img/portfolio/ink-Sleeping-Otter.webp" class=img-fluid alt="" > 
+             <div class=portfolio-info> 
+               <p>test description<p> 
+               <h4>Test name</h4> 
+               <p>test description</p> 
+               <a href="../assets/img/portfolio/ink-Sleeping-Otter.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -125,7 +136,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/digital-5.webp.png" title="Test name" data-gallery="portfolio-gallery-digital" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/digital-5.png" title="Test name" data-gallery="portfolio-gallery-digital" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -136,7 +147,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/oil-1.webp.png" title="Test name" data-gallery="portfolio-gallery-oil" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/oil-1.png" title="Test name" data-gallery="portfolio-gallery-oil" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -147,7 +158,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/watercolour-2.webp.png" title="Test name" data-gallery="portfolio-gallery-watercolour" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/watercolour-2.png" title="Test name" data-gallery="portfolio-gallery-watercolour" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -158,7 +169,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/digital-2.webp.png" title="Test name" data-gallery="portfolio-gallery-digital" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/digital-2.png" title="Test name" data-gallery="portfolio-gallery-digital" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -169,7 +180,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/watercolour-5.webp.png" title="Test name" data-gallery="portfolio-gallery-watercolour" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/watercolour-5.png" title="Test name" data-gallery="portfolio-gallery-watercolour" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -180,7 +191,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/oil-6.webp.png" title="Test name" data-gallery="portfolio-gallery-oil" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/oil-6.png" title="Test name" data-gallery="portfolio-gallery-oil" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -191,7 +202,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/ink-7.webp.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/ink-7.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -202,7 +213,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/watercolour-4.webp.png" title="Test name" data-gallery="portfolio-gallery-watercolour" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/watercolour-4.png" title="Test name" data-gallery="portfolio-gallery-watercolour" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -213,7 +224,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/digital-3.webp.png" title="Test name" data-gallery="portfolio-gallery-digital" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/digital-3.png" title="Test name" data-gallery="portfolio-gallery-digital" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -224,7 +235,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/ink-9.webp.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/ink-9.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -235,7 +246,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/ink-5.webp.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/ink-5.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -246,7 +257,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/oil-4.webp.png" title="Test name" data-gallery="portfolio-gallery-oil" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/oil-4.png" title="Test name" data-gallery="portfolio-gallery-oil" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -257,7 +268,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/ink-4.webp.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/ink-4.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -268,7 +279,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/digital-1.webp.png" title="Test name" data-gallery="portfolio-gallery-digital" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/digital-1.png" title="Test name" data-gallery="portfolio-gallery-digital" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -279,7 +290,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/ink-8.webp.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/ink-8.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -290,7 +301,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/ink-3.webp.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/ink-3.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -301,7 +312,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/oil-2.webp.png" title="Test name" data-gallery="portfolio-gallery-oil" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/oil-2.png" title="Test name" data-gallery="portfolio-gallery-oil" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -312,7 +323,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/watercolour-1.webp.png" title="Test name" data-gallery="portfolio-gallery-watercolour" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/watercolour-1.png" title="Test name" data-gallery="portfolio-gallery-watercolour" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -323,7 +334,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/digital-6.webp.png" title="Test name" data-gallery="portfolio-gallery-digital" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/digital-6.png" title="Test name" data-gallery="portfolio-gallery-digital" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -334,7 +345,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/oil-3.webp.png" title="Test name" data-gallery="portfolio-gallery-oil" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/oil-3.png" title="Test name" data-gallery="portfolio-gallery-oil" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -345,7 +356,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/ink-2.webp.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/ink-2.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
@@ -356,7 +367,7 @@
                <p>test description<p> 
                <h4>Test name</h4> 
                <p>test description</p> 
-               <a href="../assets/img/portfolio/ink-11.webp.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+               <a href="../assets/img/portfolio/ink-11.png" title="Test name" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
