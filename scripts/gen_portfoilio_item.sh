@@ -32,7 +32,7 @@ do
   # class
   echo "\n" \
        "          <div class=\"col-lg-4 col-md-6 portfolio-item isotope-item filter-$FILTER\"> \n" \
-       "            <img src="\"$HTMLPATH$i.webp\"" > \n" \
+       "            <img src="\"$HTMLPATH$i.webp\"" class=\"img-fluid\" alt=\"\" > \n" \
        "            <div class="portfolio-info"> \n" \
        "              <p>$DESCRIPTION<p> \n" \
        "              <h4>$NAME</h4> \n" \
