@@ -116,16 +116,6 @@
            </div><!-- End Portfolio Item --> 
 
 
-           <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ink"> 
-             <img src="../assets/img/portfolio/ink-Sleeping-Otter.webp" class=img-fluid alt="" > 
-             <div class=portfolio-info> 
-               <h4>Sleeping Otter</h4> 
-               <p>test description</p> 
-               <a href="../assets/img/portfolio/ink-Sleeping-Otter.png" title="Sleeping Otter" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
-             </div> 
-           </div><!-- End Portfolio Item --> 
-
-
            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-digital"> 
              <img src="../assets/img/portfolio/digital-5.webp" class=img-fluid alt="" > 
              <div class=portfolio-info> 
@@ -202,6 +192,16 @@
                <h4>4 </h4> 
                <p>test description</p> 
                <a href="../assets/img/portfolio/watercolour-4.png" title="4 " data-gallery="portfolio-gallery-watercolour" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+             </div> 
+           </div><!-- End Portfolio Item --> 
+
+
+           <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ink"> 
+             <img src="../assets/img/portfolio/ink-Sleeping-Otter-A3.webp" class=img-fluid alt="" > 
+             <div class=portfolio-info> 
+               <h4>Sleeping Otter</h4> 
+               <p>test description</p> 
+               <a href="../assets/img/portfolio/ink-Sleeping-Otter-A3.png" title="Sleeping Otter" data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
