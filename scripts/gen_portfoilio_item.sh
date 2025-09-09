@@ -33,6 +33,7 @@ do
       DESCRIPTION="Dip Pen &amp; ink illustration,`echo $i | awk -F "-" '{print $1, $NF}' | sed 's/\.webp$//'`"
       ;;
     *)
+      DESCRIPTION="N/A"
       ;;
   esac    
   NAME=`echo $i | sed 's/\.webp$//' | awk -F "-" '{print $2, $3}'`
