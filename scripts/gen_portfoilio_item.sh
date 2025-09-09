@@ -29,7 +29,6 @@ do
   case $MEDIA in
 
     ink)
-
       DESCRIPTION="Dip Pen &amp; ink illustration, `echo $i | awk -F "-" '{print $NF}' | sed 's/\.webp$//'`"
       ;;
     watercolour)
@@ -45,6 +44,7 @@ do
       DESCRIPTION="N/A"
       ;;
   esac    
+
   NAME=`echo $i | sed 's/\.webp$//' | awk -F "-" '{print $2, $3}'`
   # build the profolio-item html
 
