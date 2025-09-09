@@ -156,6 +156,16 @@
            </div><!-- End Portfolio Item --> 
 
 
+           <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-digital"> 
+             <img src="../assets/img/portfolio/digital-Salen-Boats-A3.webp" class=img-fluid alt="" > 
+             <div class=portfolio-info> 
+               <h4>Salen Boats</h4> 
+               <p>Digital illustration,  A3</p> 
+               <a href="../assets/img/portfolio/digital-Salen-Boats-A3.png" title="Salen Boats" data-gallery="portfolio-gallery-digital" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
+             </div> 
+           </div><!-- End Portfolio Item --> 
+
+
            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-watercolour"> 
              <img src="../assets/img/portfolio/watercolour-5.webp" class=img-fluid alt="" > 
              <div class=portfolio-info> 
@@ -252,16 +262,6 @@
                <h4>4 </h4> 
                <p>Dip Pen &amp; ink illustration, 4</p> 
                <a href="../assets/img/portfolio/ink-4.png" title="4 " data-gallery="portfolio-gallery-ink" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
-             </div> 
-           </div><!-- End Portfolio Item --> 
-
-
-           <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-digital"> 
-             <img src="../assets/img/portfolio/digital-1.webp" class=img-fluid alt="" > 
-             <div class=portfolio-info> 
-               <h4>1 </h4> 
-               <p>Digital illustration,  1</p> 
-               <a href="../assets/img/portfolio/digital-1.png" title="1 " data-gallery="portfolio-gallery-digital" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a> 
              </div> 
            </div><!-- End Portfolio Item --> 
 
