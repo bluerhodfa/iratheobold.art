@@ -30,7 +30,16 @@ do
 
     ink)
 
-      DESCRIPTION="Dip Pen &amp; ink illustration,`echo $i | awk -F "-" '{print $1, $NF}' | sed 's/\.webp$//'`"
+      DESCRIPTION="Dip Pen &amp; ink illustration, `echo $i | awk -F "-" '{print $NF}' | sed 's/\.webp$//'`"
+      ;;
+    watercolour)
+      DESCRIPTION="Watercolour on Arches NOT 140lb,  `echo $i | awk -F "-" '{print $NF}' | sed 's/\.webp$//'`"
+      ;;
+    oil)
+      DESCRIPTION="Oil on linen board,  `echo $i | awk -F "-" '{print $NF}' | sed 's/\.webp$//'`"
+      ;;
+    digital)
+      DESCRIPTION="Digital illustration,  `echo $i | awk -F "-" '{print $NF}' | sed 's/\.webp$//'`"
       ;;
     *)
       DESCRIPTION="N/A"
