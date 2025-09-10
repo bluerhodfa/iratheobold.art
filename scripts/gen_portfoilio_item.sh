@@ -48,7 +48,7 @@ do
   NAME=`echo $i | sed 's/\.webp$//' | awk -F "_" '{print $2}' | sed 's/\-/ /g'`
   # build the profolio-item html
 
-  FILTER=`echo $i | awk -F "-" '{print $1}'`
+  FILTER=`echo $i | awk -F "_" '{print $1}'`
   # class
   echo "\n" \
        "          <div class=\"col-lg-4 col-md-6 portfolio-item isotope-item filter-$FILTER\"> \n" \
