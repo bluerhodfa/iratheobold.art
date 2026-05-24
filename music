@@ -1,9 +1,11 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>Music control for SONoS</h1>
-<p>Test auth page redirect</p>
-
-</body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Auth redirect</title>
+  </head>
+  <body>
+    <h1>SONOS Auth rediretct page</h1>
+  </body>
 </html>
